@@ -1,0 +1,48 @@
+html{
+    background-color: pink;
+}
+
+.base{
+    display: block;
+}
+
+.title{
+    position: relative;
+    text-align: center;
+    text-size-adjust: 100%;
+    font-size: 40px;
+}
+
+.container{
+    position: relative;
+    text-align: center;
+}
+
+#input{
+    width: 25%;
+    height: 20px;
+}
+
+#addBtn{
+    height: 25px;
+    border-radius: 10px;
+}
+
+.to-dos{
+    margin-top : 25px;
+    width: 50%;
+}
+
+#toDoContainer{
+    margin-right: 25%;
+    margin-left: 25%;
+    position: relative;
+    text-align: center;
+}
+
+.paragraph-styling{
+    margin: 0;
+    cursor: pointer;
+    font-size: 20px;
+}
+
